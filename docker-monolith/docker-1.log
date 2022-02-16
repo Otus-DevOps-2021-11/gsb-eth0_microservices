@@ -1,0 +1,7 @@
+REPOSITORY            TAG       IMAGE ID       CREATED         SIZE
+gsb/ubuntu-tmp-file   latest    dc4af97505eb   8 minutes ago   63.2MB
+ubuntu                18.04     dcf4d4bef137   13 days ago     63.2MB
+nginx                 latest    c316d5a335a5   2 weeks ago     142MB
+hello-world           latest    feb5d9fea6a5   4 months ago    13.3kB
+
+
