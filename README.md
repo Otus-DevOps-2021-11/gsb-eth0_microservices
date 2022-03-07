@@ -1,6 +1,17 @@
 # gsb-eth0_microservices
 gsb-eth0 microservices repository
 
+# ***ДЗ №6:***
+В процессе сделано:
+```
+1. Всё по методичке:
+2. https://hub.docker.com/r/snailsly/post
+3. https://hub.docker.com/r/snailsly/prometheus
+4. https://hub.docker.com/r/snailsly/comment
+5. https://hub.docker.com/r/snailsly/ui
+```
+-----------------------------------------------------------------------------------
+
 # ***ДЗ №5:***
 В процессе сделано:
 ```
