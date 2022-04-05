@@ -1,7 +1,7 @@
 # gsb-eth0_microservices
 gsb-eth0 microservices repository
 
-# ***ДЗ №8:***
+# ***ДЗ №9:***
 В процессе сделано:
 ```
 1. YC Managed Service for Kubernetes
