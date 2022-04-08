@@ -1,6 +1,15 @@
 # gsb-eth0_microservices
 gsb-eth0 microservices repository
 
+# ***ДЗ №9:***
+В процессе сделано:
+```
+1. YC Managed Service for Kubernetes
+2. Установлен minikube/rancher (k3s)
+3. Добавлено файлы.
+```
+-----------------------------------------------------------------------------------
+
 # ***ДЗ №8:***
 В процессе сделано:
 ```

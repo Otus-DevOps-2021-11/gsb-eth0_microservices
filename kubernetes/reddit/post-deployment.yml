@@ -1,18 +1,29 @@
+---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: post-deployment
+  name: post
+  labels:
+    app: reddit
+    component: post
+    post-db: "true"
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: post
+      app: reddit
+      component: post
   template:
     metadata:
       name: post
       labels:
-        app: post
+        app: reddit
+        component: post
+        post-db: "true"
     spec:
       containers:
       - image: snailsly/post
         name: post
+        env:
+        - name: POST_DATABASE_HOST
+          value: post-db
