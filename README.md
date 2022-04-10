@@ -1,6 +1,15 @@
 # gsb-eth0_microservices
 gsb-eth0 microservices repository
 
+# ***ДЗ №10:***
+В процессе сделано:
+```
+1. Ingress Controller, Ingress, Secret, TLS, LoadBalancer Service, Network Policies, PersistentVolumes, PersistentVolumeClaims
+2. Всё по методичке:
+3. Добавлено файлы.
+```
+-----------------------------------------------------------------------------------
+
 # ***ДЗ №9:***
 В процессе сделано:
 ```
